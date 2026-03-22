@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+PUBLISH_CHECKLIST.md
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude Code specific
+.claude/
+memory/
+
+# Video files (ignore downloaded videos)
+*.mp4
+*.m4a
+*.webm
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+*.3gp
+*.ts
+*.m3u8
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Test files
+test_videos/
+test_output/
+downloads/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+#ffmpeg binaries
+ffmpeg.exe
+ffmpeg
+ffmpeg-*.exe
+ffmpeg-*.zip
+
+# Documentation temporary files
+*.md.bak
+*.md.tmp
