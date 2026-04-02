@@ -1,0 +1,14 @@
+# HD Video Downloader - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Primary video downloader (1000+ sites)
+yt-dlp>=2023.1.1
+
+# Fallback video downloader (80+ sites)
+you-get>=0.4.1600
+
+# Video/audio merging with built-in ffmpeg
+moviepy>=1.0.3
+
+# Optional: For better performance
+# imageio-ffmpeg>=0.4.9  # Required by moviepy for video processing
