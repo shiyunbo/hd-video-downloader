@@ -1,6 +1,6 @@
 ---
 name: hd-video-downloader
-description: Download HD videos from 1000+ platforms using yt-dlp (YouTube, TikTok,Bilibili, Vimeo, Twitter/X, Instagram, etc.) and you-get (80+ sites including Douyin, Weibo, Youku, iQIYI, Tencent Video, etc.). **100% automated** - downloads in high quality, merges separated video/audio streams to AAC audio, no user confirmation needed. Auto-overwrites existing files, auto-deletes temp files. **Always use this skill whenever the user provides a video link, URL from any video platform, or asks to download/save/rip/extract videos from websites** — even if they don't explicitly mention the tool name. This includes phrases like "download this video" or "get this video", or when sharing any video URL.
+description: Download HD videos from 1000+ platforms using yt-dlp (YouTube, TikTok,Bilibili, Twitter/X, Instagram, etc.) and you-get (80+ sites including Douyin, Weibo, iQIYI, Tencent Video, etc.). **100% automated** - downloads in high quality, merges separated video/audio streams to AAC audio, no user confirmation needed. Auto-overwrites existing files, auto-deletes temp files. **Always use this skill whenever the user provides a video link, URL from any video platform, or asks to download/save/rip/extract videos from websites** — even if they don't explicitly mention the tool name. This includes phrases like "download this video" or "get this video", or when sharing any video URL.
 ---
 
 # HD Video Downloader Skill
